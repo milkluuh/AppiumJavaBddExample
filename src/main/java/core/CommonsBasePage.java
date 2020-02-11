@@ -3,20 +3,11 @@ package core;
 import static org.junit.Assert.fail;
 
 import io.appium.java_client.touch.offset.PointOption;
-import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
-import org.apache.poi.util.Units;
-import org.apache.poi.xwpf.usermodel.XWPFParagraph;
-import org.apache.poi.xwpf.usermodel.XWPFRun;
 import org.openqa.selenium.*;
-import io.appium.java_client.TouchAction;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import java.io.*;
-import java.text.SimpleDateFormat;
-import java.util.Calendar;
-import java.util.concurrent.TimeUnit;
-import org.apache.poi.xwpf.usermodel.XWPFDocument;
+
 
 
 public class CommonsBasePage extends DriverFactory {

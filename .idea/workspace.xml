@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5e004b5-e85c-4686-831a-a1c2dffb8ec7" name="Default Changelist" comment="" />
+    <list default="true" id="8c07e6d3-89d6-461c-b0a8-d18e19ccb814" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/assembly/zip.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/CommonsBasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/core/CommonsBasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/core/CommonsBasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/core/CommonsBasePage.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,76 +28,24 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/runner/RunnerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/core/CommonsBasePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/stepsDefinitions/ExampleSteps.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1126#1127#0" expanded="true" />
-                <element signature="e#1186#1187#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pages/ExampleScreen.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="31" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="31" />
+            <state relative-caret-position="289">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/features/example.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/core/DriverFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/assembly/zip.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/pages/CalculosSalvosScreen.java" />
-        <option value="$PROJECT_DIR$/src/test/java/runner/RunnerTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/stepsDefinitions/ExampleSteps.java" />
-        <option value="$PROJECT_DIR$/src/test/resources/features/example.feature" />
-        <option value="$PROJECT_DIR$/src/test/java/pages/ExampleScreen.java" />
         <option value="$PROJECT_DIR$/src/main/java/core/CommonsBasePage.java" />
       </list>
     </option>
@@ -104,120 +61,105 @@
     <option name="x" value="225" />
     <option name="y" value="23" />
     <option name="width" value="1193" />
-    <option name="height" value="799" />
+    <option name="height" value="788" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="starterproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="starterproject" type="462c0819:PsiDirectoryNode" />
+              <item name="starter-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppiumJavaBddExample" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="starterproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="starterproject" type="462c0819:PsiDirectoryNode" />
+              <item name="starter-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppiumJavaBddExample" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="starter-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppiumJavaBddExample" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="starterproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="starterproject" type="462c0819:PsiDirectoryNode" />
+              <item name="starter-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppiumJavaBddExample" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="starterproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="starterproject" type="462c0819:PsiDirectoryNode" />
+              <item name="starter-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppiumJavaBddExample" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="starterproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="starterproject" type="462c0819:PsiDirectoryNode" />
+              <item name="starter-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppiumJavaBddExample" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="core" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="starterproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="starterproject" type="462c0819:PsiDirectoryNode" />
+              <item name="starter-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppiumJavaBddExample" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="starterproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="starterproject" type="462c0819:PsiDirectoryNode" />
+              <item name="starter-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppiumJavaBddExample" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="starterproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="starterproject" type="462c0819:PsiDirectoryNode" />
+              <item name="starter-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppiumJavaBddExample" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="starterproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="starterproject" type="462c0819:PsiDirectoryNode" />
+              <item name="starter-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppiumJavaBddExample" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="starterproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="starterproject" type="462c0819:PsiDirectoryNode" />
+              <item name="starter-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppiumJavaBddExample" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="runner" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="starterproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="starterproject" type="462c0819:PsiDirectoryNode" />
+              <item name="starter-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppiumJavaBddExample" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="stepsDefinitions" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="starterproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="starterproject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="starterproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="starterproject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="features" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/resources" />
-    </key>
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -231,27 +173,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RunnerTest">
-    <configuration name="Feature: example" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/example.feature" />
-      <option name="GLUE" value="stepsDefinitions" />
-      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
-      <module name="starterproject" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
-      <option name="SUGGESTED_NAME" value="Feature: example" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cucumber.api.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="RunnerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="starterproject" />
+      <module name="starter-project" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="runner.*" />
@@ -268,7 +192,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.RunnerTest" />
-        <item itemvalue="Cucumber java.Feature: example" />
       </list>
     </recent_temporary>
   </component>
@@ -277,39 +200,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e5e004b5-e85c-4686-831a-a1c2dffb8ec7" name="Default Changelist" comment="" />
-      <created>1572541585507</created>
+      <changelist id="8c07e6d3-89d6-461c-b0a8-d18e19ccb814" name="Default Changelist" comment="" />
+      <created>1581451500573</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1572541585507</updated>
+      <updated>1581451500573</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Feature__example - 2019.10.31 at 14h 40m 41s.xml">
-      <configuration name="Feature: example" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Feature__example - 2019.10.31 at 14h 50m 39s.xml">
-      <configuration name="Feature: example" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Feature__example - 2019.10.31 at 15h 19m 41s.xml">
-      <configuration name="Feature: example" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="RunnerTest - 2019.10.31 at 15h 32m 18s.xml">
+    <history-entry file="RunnerTest - 2020.02.11 at 18h 15m 12s.xml">
       <configuration name="RunnerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunnerTest - 2019.10.31 at 15h 37m 28s.xml">
-      <configuration name="RunnerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RunnerTest - 2019.10.31 at 15h 37m 57s.xml">
-      <configuration name="RunnerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RunnerTest - 2019.10.31 at 15h 40m 13s.xml">
+    <history-entry file="RunnerTest - 2020.02.11 at 18h 18m 31s.xml">
       <configuration name="RunnerTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="830" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -317,15 +225,15 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.5007153" side_tool="true" weight="0.3292683" />
-      <window_info anchor="bottom" id="Messages" weight="0.3292683" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.3289689" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.30352303" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -341,44 +249,17 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Downloads/AppiumJavaBdd-master/src/test/java/runner/Runner.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/AppiumJavaBdd-master/src/main/java/Core/DriverFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="27" column="59" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="27" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/stepsDefinitions/Hooks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/testng.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/assembly/zip.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="36" selection-start-column="36" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        <state relative-caret-position="867">
+          <caret line="51" column="31" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/CalculosSalvosScreen.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/core/CommonsBasePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="93" selection-start-line="10" selection-start-column="93" selection-end-line="10" selection-end-column="93" />
+        <state relative-caret-position="204">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -387,51 +268,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/core/DriverFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="26" column="124" selection-start-line="26" selection-start-column="124" selection-end-line="26" selection-end-column="124" />
+        <state relative-caret-position="68">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/core/CommonsBasePage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/CalculosSalvosScreen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/features/example.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/ExampleScreen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="31" />
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepsDefinitions/ExampleSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/stepsDefinitions/ExampleSteps.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepsDefinitions/Hooks.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+        <state relative-caret-position="34">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1126#1127#0" expanded="true" />
-            <element signature="e#1186#1187#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/runner/RunnerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="289">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

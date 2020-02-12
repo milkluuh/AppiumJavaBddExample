@@ -9,6 +9,5 @@ public class CalculosSalvosScreen extends CommonsBasePage {
         validateElementAppeared(MobileBy.id("br.com.correios.calculaprecoprazo:id/imgCaixa"));
         validateElementAppeared(MobileBy.id("br.com.correios.calculaprecoprazo:id/imgCarta"));
         validateElementAppeared(MobileBy.id("br.com.correios.calculaprecoprazo:id/imgCilindro"));
-
     }
 }

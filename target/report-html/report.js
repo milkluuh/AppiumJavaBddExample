@@ -1,68 +1,73 @@
-$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("src/test/resources/features/example.feature");
+$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("src/test/resources/features/calculaFrete.feature");
 formatter.feature({
-  "name": "Example of our project structure",
-  "description": "  As a QA\n  I want to share our project structure\n  So Hiptest team can help us",
-  "keyword": "Feature"
+  "name": "Calcula Frete",
+  "description": "    Eu como usuário do app dos correios\n    Desejo saber o frete\n    Para poder ter ciencia sobre o valor",
+  "keyword": "Funcionalidade"
 });
 formatter.scenario({
-  "name": "Validate data",
+  "name": "Calcula Frete",
   "description": "",
-  "keyword": "Scenario",
-  "tags": [
-    {
-      "name": "@QA-001"
-    }
-  ]
+  "keyword": "Cenário"
 });
 formatter.before({
   "status": "passed"
 });
 formatter.step({
-  "name": "user opens the app",
-  "keyword": "Given "
+  "name": "que o usuario abre o app dos correios",
+  "keyword": "Dado "
 });
 formatter.match({
-  "location": "ExampleSteps.user_opens_the_app()"
+  "location": "CalculaFreteSteps.que_o_usuario_abre_o_app_dos_correios()"
 });
 formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "user inputs data on cep de origem field",
-  "keyword": "When "
+  "name": "clica no botao novo calculo",
+  "keyword": "E "
 });
 formatter.match({
-  "location": "ExampleSteps.user_inputs_data_on_cep_de_origem_field()"
+  "location": "CalculaFreteSteps.clica_no_botao_novo_calculo()"
 });
 formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "user inputs data on cep de destino field",
-  "keyword": "And "
+  "name": "digita o cep no campo cep de origem",
+  "keyword": "E "
 });
 formatter.match({
-  "location": "ExampleSteps.user_inputs_data_on_cep_de_destino_field()"
+  "location": "CalculaFreteSteps.digita_o_cep_no_campo_cep_de_origem()"
 });
 formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "user clicks on proximo passo button",
-  "keyword": "And "
+  "name": "digita o cep no campo cep de destino",
+  "keyword": "E "
 });
 formatter.match({
-  "location": "ExampleSteps.user_clicks_on_proximo_passo_button()"
+  "location": "CalculaFreteSteps.digita_o_cep_no_campo_cep_de_destino()"
 });
 formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "the app displays the calculos salvos screen",
-  "keyword": "Then "
+  "name": "clica no botao proximo passo",
+  "keyword": "Quando "
 });
 formatter.match({
-  "location": "ExampleSteps.the_app_displays_the_calculos_salvos_screen()"
+  "location": "CalculaFreteSteps.clica_no_botao_proximo_passo()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "o App exibe a tela de calculos salvos",
+  "keyword": "Entao "
+});
+formatter.match({
+  "location": "CalculaFreteSteps.o_App_exibe_a_tela_de_calculos_salvos()"
 });
 formatter.result({
   "status": "passed"

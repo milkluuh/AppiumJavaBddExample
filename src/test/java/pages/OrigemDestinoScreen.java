@@ -3,7 +3,7 @@ package pages;
 import core.CommonsBasePage;
 import io.appium.java_client.MobileBy;
 
-public class ExampleScreen extends CommonsBasePage {
+public class OrigemDestinoScreen extends CommonsBasePage {
 
     public void clickNovoCalculoButton(){
         clickField(MobileBy.id("br.com.correios.calculaprecoprazo:id/textview_texto"));
@@ -24,5 +24,6 @@ public class ExampleScreen extends CommonsBasePage {
 
     public void clickProximoPassoButton(){
         clickField(MobileBy.id("br.com.correios.calculaprecoprazo:id/button_prox"));
+
     }
 }
